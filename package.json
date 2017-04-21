@@ -1,0 +1,11 @@
+{
+  "name": "RealtimeWebChat",
+  "version": "0.0.1",
+  "description": "Chat application using NodeJS",
+  "dependencies": {
+    "socket.io" : "latest",
+    "express" : "latest",
+    "jade" : "latest"
+  },
+  "author" : "savio.fernandes"
+}
